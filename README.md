@@ -27,7 +27,7 @@ and gain speed and provide more transparent accuracy when working with extended 
 
 
 ----
-Float128, Float256, Float512, aor Float1024 are selected before 'using' this module:
+Float128, Float256, Float512, or Float1024 are selected before 'using' this module:
 
 ```
 using FloatMore
